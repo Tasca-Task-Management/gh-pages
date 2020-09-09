@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Hi, it's Tasca
 
-You can use the [editor on GitHub](https://github.com/Tasca-Task-Management/gh-pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Tasca is an App that helps you to manage your project and your task, and remind you to take breaks after you accomplish several tasks.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tasca will give you a framework to create structural information about your project, from the milestone of your project until the sub-task of your milestone that you have been created in your project.
 
-### Markdown
+### Term of Service
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Terms By accessing our app, Tasca, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing Tasca. The materials contained in Tasca are protected by applicable copyright and trademark law.
 
-```markdown
-Syntax highlighted code block
+2. Use License Permission is granted to temporarily download one copy of Tasca per device for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not: modify or copy the materials; use the materials for any commercial purpose, or for any public display (commercial or non-commercial); attempt to decompile or reverse engineer any software contained in Tasca; remove any copyright or other proprietary notations from the materials; or transfer the materials to another person or "mirror" the materials on any other server. This license shall automatically terminate if you violate any of these restrictions and may be terminated by Tasca co at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
 
-# Header 1
-## Header 2
-### Header 3
+3. Disclaimer The materials within Tasca co are provided on an 'as is' basis. Tasca co makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, Tasca co does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to Tasca.
 
-- Bulleted
-- List
+4. Limitations In no event shall Tasca or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use Tasca, even if Tasca co or a Tasca co co authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
 
-1. Numbered
-2. List
+5. Accuracy of materials The materials appearing in Tasca could include technical, typographical, or photographic errors. Tasca co does not warrant that any of the materials on Tasca are accurate, complete or current. Tasca co may make changes to the materials contained in Tasca at any time without notice. However Tasca co does not make any commitment to update the materials.
 
-**Bold** and _Italic_ and `Code` text
+6. Links Tasca co has not reviewed all of the sites linked to its app and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Tasca co of the site. Use of any such linked website is at the user's own risk.
 
-[Link](url) and ![Image](src)
-```
+7. Modifications Tasca co may revise these terms of service for its app at any time without notice. By using Tasca you are agreeing to be bound by the then current version of these terms of service.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+8. Governing Law These terms and conditions are governed by and construed in accordance with the laws of Indonesia and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
 
-### Jekyll Themes
+### Privacy Policy
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tasca-Task-Management/gh-pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your privacy is important to us. It is Tasca co policy to respect your privacy regarding any information we may collect from you through our app, Tasca.
+
+We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.
+
+We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.
+
+We don’t share any personally identifying information publicly or with third-parties, except when required to by law.
+
+Our app may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
+
+You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.
+
+Your continued use of our app will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us at [our support](mailto:danny.snts@yahoo.co.id)
+
+This policy is effective as of 09 September 2020.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Tasca? Please contact [our support](mailto:danny.snts@yahoo.co.id) and we’ll help you sort it out.
